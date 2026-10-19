@@ -3,9 +3,14 @@ title: Independent Research & Essays
 description: 个人思想、研究与阅读笔记
 lang: zh-CN
 
+
+
 header_pages:
   - index.md
   - essays.md
-  - research.md
   - notes.md
+  - self-growth.md
   - about.md
+
+
+
